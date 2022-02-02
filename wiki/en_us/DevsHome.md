@@ -5,3 +5,4 @@ and concepts of the shrines mod. We'll also talk about
 the design of the shrines mod and some conventions
 
 - [Development Target](devs/DevelopmentTarget.md)
+- [Code Design](devs/WorkingDesign.md)

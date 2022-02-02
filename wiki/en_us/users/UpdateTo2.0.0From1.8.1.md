@@ -1,5 +1,8 @@
 ## How to Update Shrines structures mod to version 2.x.x from 1.8.1 (Untested)
 
+> This is only necessary if you want to update to a version below 2.0.0-rc2. Since 2.0.0-rc2 you don't need to
+> follow these steps because Shrines makes them for you
+
 Updating shrines structures from 1.8.1 to 2.0.0 doesn't work smoothly, but there are ways for you to prevent these problems. The main problem is that
 some structure keys (the name you need to enter for the /locate command) were changed and minecraft tells you all the time that there are structures
 missing. You can see that when there are lines in your log 'Missing Structure Start: shrines:high_tempel' or something similar.

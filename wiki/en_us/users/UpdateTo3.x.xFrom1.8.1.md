@@ -1,20 +1,12 @@
-## How to Update Shrines structures mod to version 3.x.x from 1.8.1 (Untested)
+## How to Update Shrines structures mod to version 3.x.x from 1.8.1
 
-Updating shrines structures from 1.8.1 to 2.0.0 doesn't work smoothly, but there are ways for you to prevent these problems. The main problem is that
-some structure keys (the name you need to enter for the /locate command) were changed and minecraft tells you all the time that there are structures
-missing. You can see that when there are lines in your log 'Missing Structure Start: shrines:high_tempel' or something similar.
+> This only works since version 3.0.0-Beta12. Before that version, you needed to [update to 2.x.x](UpdateTo2.0.0From1.8.1.md) before
 
-You can prevent all these issues if you just create a new world and don't use old worlds anymore, but if you (understandably) don't want to delete all
-your worlds you can follow these steps:
+On most recent version, the update shouldn't cause issues in most cases. You don't even need to import legacy 
+custom structures, as it was necessary when updating to 2.x.x. The main problem remains the structure
+generation system change to jigsaw. Read more about that [here](UpdateTo2.0.0From1.8.1.md)
 
-1. Fix this for 2.0.0 first
-   1. Before Shrines-1.16.5-2.0.0-rc2, you were enforced to run these steps: 
-   [update from 1.8.1 to 2.x.x](UpdateTo2.0.0From1.8.1.md)
-   2. Since Shrines-1.16.5-2.0.0-rc2 you can just start minecraft one time with 2.0.0 then you're done
-      (Shrines runs these steps for you then)
-2. Download the latest release from major version 3.x.x and place it in you mods folder
-3. Start minecraft and there shouldn't be any problems anymore
+If you need help, feel free to ask on discord or open an issue on GitHub
 
-Please Note!\
-This workaround doesn't work if you have already joined a world (or started a world on a server) 
-with 2.x.x or 3.x.x before you used this workaround
+[![Discord](https://img.shields.io/discord/777129358769782814?label=discord)](https://discord.gg/8pUpWCEUe2)
+[![GitHub issues](https://img.shields.io/github/issues/Silverminer007/Shrines)](https://github.com/Silverminer007/Shrines/issues)

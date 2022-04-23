@@ -14,3 +14,4 @@ Here is a list of all available articles. Some are technical, others are user sp
 - [random variation](random_variation.md)
 - [structure novels](structure_novels.md)
 - [Datagenerator](devs/datagenerator.md)
+- [Dynamic registries](users/dependencies.md)

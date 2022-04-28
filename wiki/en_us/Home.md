@@ -15,3 +15,9 @@ Here is a list of all available articles. Some are technical, others are user sp
 - [structure novels](structure_novels.md)
 - [Datagenerator](devs/datagenerator.md)
 - [Dynamic registries](users/dependencies.md)
+- [Configure Spawn biomes](users/configureBiomes.md)
+
+Tutorials:
+
+- https://www.youtube.com/watch?v=SXLNO3WXrJA
+- [Configure Spawn Biomes of the player house](tutorials/configurePlayerHouseBiomes.md)

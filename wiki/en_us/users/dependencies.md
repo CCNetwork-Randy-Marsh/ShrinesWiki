@@ -25,7 +25,7 @@ If you use Shrines for 1.18.1, you need to install a second mod alongside it (Yo
 You can download dynamicregistries from curseforge, modrinth and gitbuh, just like shrines (download links at the bottom of thsi page).
 If you miss installing this second mod, Shrines will crash on start-up due to a Forge issue.
 
-**Downloads**
+**Dynamicregistries Downloads**
 - [Modrinth](https://modrinth.com/mod/dynamicregistries)
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shrines-structures)
-- [GitHub](https://github.com/Silverminer007/Shrines/releases)
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamicregistries)
+- [GitHub](https://github.com/Silverminer007/DynamicRegistries)

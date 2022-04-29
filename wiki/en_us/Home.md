@@ -16,6 +16,7 @@ Here is a list of all available articles. Some are technical, others are user sp
 - [Datagenerator](devs/datagenerator.md)
 - [Dynamic registries](users/dependencies.md)
 - [Configure Spawn biomes](users/configureBiomes.md)
+- [Disable Structures](users/disableStructure.md)
 
 Tutorials:
 

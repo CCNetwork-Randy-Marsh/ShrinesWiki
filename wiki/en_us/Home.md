@@ -19,5 +19,5 @@ Here is a list of all available articles. Some are technical, others are user sp
 
 Tutorials:
 
-- https://www.youtube.com/watch?v=SXLNO3WXrJA
+- [How to add custom structures (YouTube)](https://www.youtube.com/watch?v=SXLNO3WXrJA)
 - [Configure Spawn Biomes of the player house](tutorials/configurePlayerHouseBiomes.md)

@@ -1,15 +1,16 @@
-## Random variation (1.16.5-2.x.x; 1.18.1-3.x.x; Future 1.18.2-4.x.x releases (not yet)
+## Random variation
 
-There are many structures that can also have variant materials. E.g. the Watchtower is built from spruce, but a dark oak watchtower could be naturally generated as a new, fresh alternative. Shrines' Random variation feature exchanges the materials of its builds on every placement. You can see a Balloon in white, in red, purple, green etc.
+There are many structures that can also have variant materials. E.g. the Watchtower is built from spruce, 
+but a dark oak watchtower could be naturally generated as a new, fresh alternative. Shrines' Random
+variation feature exchanges the materials of its builds on every placement. You can see a Balloon in
+white, in red, purple, green etc.\
 Since 3.x.x you're also able to fully configure random variation through datapacks.
+
 ![](https://media.forgecdn.net/attachments/422/138/random_variation_11012022.png)
 
-
-## How to customize random variation
+## How to customize random variation (Only 1.18.2)
 
 > This paragraphs requires some basic knowledge about minecraft datapacks
-> 
-> This covers only how random variation works in Shrines most recent versions
 
 Let's first talk about how random variation works. Here is what we want to achieve with it:
 

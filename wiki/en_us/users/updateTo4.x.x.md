@@ -1,4 +1,4 @@
-### Update to Shrines 4.x.x / Minecraft 1.18.2
+# Update to Shrines 4.x.x / Minecraft 1.18.2
 
 > This article is untested right now
 
@@ -9,6 +9,14 @@ Unfortunately, Mojang missed a few important options for customisation, which Sh
 of this tutorial. In this tutorial, we will focus on how you can continue your old world with the new version of shrines.
 
 **Before you continue, create a backup of your world, in best case of your whole minecraft directory**
+
+## Since Shrines-1.18.2-4.0.0-alpha9
+
+In the most recent versions of shrines, no extra work to update custom structures is required. All custom structures
+in the encoding 1.18.2 used will be converted automatically. If you have structures in the 1.16.5 encoding, it's recommended to start in 1.18.1 first,
+which will update to the 1.18.1 encoding and run in 1.18.2 afterwards which will update to the most recent encoding
+
+## Before Shrines-1.18.2-4.0.0-alpha9
 
 If you haven't used custom structures before, you should already be good to go. Just make sure you have Shrines-4.0.0-alpha6 or above installed.
 Even if this system seems to be stable, issues can still appear, so remember to create a backup! You might experience some issues

@@ -17,6 +17,7 @@ Here is a list of all available articles. Some are technical, others are user sp
 - [Dynamic registries](users/dependencies.md)
 - [Configure Spawn biomes](users/configureBiomes.md)
 - [Disable Structures](users/disableStructure.md)
+- [Structure Updater 1.18.2](users/structureUpdater1.18.2.md)
 
 Tutorials:
 
